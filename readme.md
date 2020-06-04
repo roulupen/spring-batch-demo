@@ -7,12 +7,10 @@
 
 #### Sample queries for checking if records saved into H2 database or not and checking batchjob status.
 
-select * FROM USER;
-select * from BATCH_JOB_EXECUTION;
-select * from BATCH_STEP_EXECUTION;
-
-select * from BATCH_JOB_INSTANCE;
-select * FROM BATCH_JOB_EXECUTION_CONTEXT;
-select * FROM BATCH_STEP_EXECUTION_CONTEXT;
-
-select * FROM BATCH_JOB_EXECUTION_PARAMS;
+- select * FROM USER;
+- select * from BATCH_JOB_EXECUTION;
+- select * from BATCH_STEP_EXECUTION;
+- select * from BATCH_JOB_INSTANCE;
+- select * FROM BATCH_JOB_EXECUTION_CONTEXT;
+- select * FROM BATCH_STEP_EXECUTION_CONTEXT;
+- select * FROM BATCH_JOB_EXECUTION_PARAMS;
