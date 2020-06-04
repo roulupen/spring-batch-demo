@@ -15,5 +15,5 @@
 - select * FROM BATCH_STEP_EXECUTION_CONTEXT;
 - select * FROM BATCH_JOB_EXECUTION_PARAMS;
 
-http://localhost:8081/h2-console/ : For checking h2 database console.
-http://localhost:8081/load : Load data from CSV to database.
+* http://localhost:8081/h2-console/ : For checking h2 database console.
+* http://localhost:8081/load : Load data from CSV to database.
