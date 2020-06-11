@@ -17,3 +17,7 @@
 
 * http://localhost:8081/h2-console/ : For checking h2 database console.
 * http://localhost:8081/load : Load data from CSV to database.
+
+
+References:
+- https://www.youtube.com/watch?v=1XEX-u12i0A
